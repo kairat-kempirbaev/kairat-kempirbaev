@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kairat</h1>
-<h3 align="center">A passionate web developer</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
-- 🌱 I’m currently learning **Front/Back-end development**
+- 🌱 I’m currently working on **Front/Back-end development** stack
 
 - 📝 I regularly write articles on [https://kairatsoftwaredev.com/](https://kairatsoftwaredev.com/)
 

@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently working on **Front/Back-end development** stack
 
-- 📝 I regularly write articles on [https://kairatsoftwaredev.com/](https://kairatsoftwaredev.com/)
+- 📝 I regularly write articles on  
 
 - 💬 Ask me about **Computer Science!**
 
